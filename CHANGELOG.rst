@@ -1,10 +1,19 @@
-DONE
-====
+Releases
+========
 
 2019-09-01: 0.1
 ---------------
 
 - eerste aanzet
+
+
+DONE
+====
+
+BUSY
+====
+
+- refine
 
 TODO
 ====
