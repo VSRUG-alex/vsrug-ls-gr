@@ -3,7 +3,12 @@ Releases
 
 .. contents::
 
-2019-09-01: 0.1
+2018-09-03: 0.3
+---------------
+
+- copyright, licenties, ...
+
+2013-09-01: 0.1
 ---------------
 
 - eerste aanzet
@@ -11,14 +16,10 @@ Releases
 DONE
 ====
 
-- add licencing stuff:
-    - licence
-    - copyright
-
 BUSY
 ====
 
-
+- clean up unused images
 
 TODO
 ====
