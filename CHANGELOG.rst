@@ -8,21 +8,24 @@ Releases
 
 - eerste aanzet
 
-
 DONE
 ====
+
+- add licencing stuff:
+    - licence
+    - copyright
 
 BUSY
 ====
 
-- refine
+
 
 TODO
 ====
 
 - refine parameters
-- UTF teksten
 - https://stellarium.org/landscapes.html
+    - UTF teksten
     - thumbnail
     - fix image dimensions (powers of 2)
     - readme explaining permissions
