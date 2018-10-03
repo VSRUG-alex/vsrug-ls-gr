@@ -7,6 +7,7 @@ Releases
 ---------------
 
 - copyright, licenties, ...
+- clean up unused images
 
 2013-09-01: 0.1
 ---------------
@@ -19,7 +20,6 @@ DONE
 BUSY
 ====
 
-- clean up unused images
 
 TODO
 ====
