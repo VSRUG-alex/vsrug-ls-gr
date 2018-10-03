@@ -17,6 +17,9 @@ Releases
 DONE
 ====
 
+- refine az (lnkerkant boekentoren  =117d / 135m + https://acscdg.com/)
+- top/bottom boekentoren linkerbovenhoek = 20deg
+
 BUSY
 ====
 
