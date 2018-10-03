@@ -3,6 +3,13 @@ Releases
 
 .. contents::
 
+2018-09-03: 0.4
+---------------
+
+- refine az (lnkerkant boekentoren  =117d / 135m + https://acscdg.com/)
+- top/bottom boekentoren linkerbovenhoek = 20deg
+
+
 2018-09-03: 0.3
 ---------------
 
@@ -16,9 +23,6 @@ Releases
 
 DONE
 ====
-
-- refine az (lnkerkant boekentoren  =117d / 135m + https://acscdg.com/)
-- top/bottom boekentoren linkerbovenhoek = 20deg
 
 BUSY
 ====
