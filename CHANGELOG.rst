@@ -26,13 +26,11 @@ TODO
 
 - refine parameters
 - https://stellarium.org/landscapes.html
-    - UTF teksten
     - thumbnail
-    - fix image dimensions (powers of 2)
-    - readme explaining permissions
-    - UTF-8
-    -   CR LF to help Windows users
+    - UTF teksten
+    - CR LF to help Windows users (!)
 - nieuwe foto's
 - eenvoudige polygonen
 - alle opties uitpluizen
 - opties toepassen
+- alternatieve landsacape ``types`` (zie de .ini bestanden onder https://github.com/Stellarium/stellarium/tree/master/landscapes)
