@@ -40,4 +40,4 @@ TODO
 - eenvoudige polygonen
 - alle opties uitpluizen
 - opties toepassen
-- alternatieve landsacape ``types`` (zie de .ini bestanden onder https://github.com/Stellarium/stellarium/tree/master/landscapes)
+- alternatieve landscape ``types`` (zie de .ini bestanden onder https://github.com/Stellarium/stellarium/tree/master/landscapes)
