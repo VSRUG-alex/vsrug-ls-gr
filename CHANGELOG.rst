@@ -24,6 +24,8 @@ Releases
 DONE
 ====
 
+- add version in name
+
 BUSY
 ====
 
