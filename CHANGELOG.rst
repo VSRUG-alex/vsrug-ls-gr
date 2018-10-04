@@ -3,21 +3,21 @@ Releases
 
 .. contents::
 
-2018-09-03: 0.4
----------------
+0.4 (2018-09-03)
+----------------
 
 - refine az (lnkerkant boekentoren  =117d / 135m + https://acscdg.com/)
 - top/bottom boekentoren linkerbovenhoek = 20deg
 
 
-2018-09-03: 0.3
----------------
+0.3 (2018-09-03)
+----------------
 
 - copyright, licenties, ...
 - clean up unused images
 
-2013-09-01: 0.1
----------------
+0.1 (2013-09-01)
+----------------
 
 - eerste aanzet
 
@@ -25,6 +25,7 @@ DONE
 ====
 
 - add version in name
+- reformat changelog version strings
 
 BUSY
 ====
