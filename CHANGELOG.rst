@@ -3,6 +3,11 @@ Releases
 
 .. contents::
 
+0.4.1 (2018-09-05)
+------------------
+
+- versie in naam landscape
+
 0.4 (2018-09-03)
 ----------------
 
@@ -23,9 +28,6 @@ Releases
 
 DONE
 ====
-
-- add version in name
-- reformat changelog version strings
 
 BUSY
 ====
