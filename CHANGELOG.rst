@@ -3,35 +3,33 @@ Releases
 
 .. contents::
 
-0.4.1 (2018-09-05)
+0.5 (2018-10-10)
+----------------
+
+- gazetteer: merkwaardige punten
+
+0.4.1 (2018-10-05)
 ------------------
 
 - versie in naam landscape
 
-0.4 (2018-09-03)
+0.4 (2018-10-03)
 ----------------
 
 - refine az (lnkerkant boekentoren  =117d / 135m + https://acscdg.com/)
 - top/bottom boekentoren linkerbovenhoek = 20deg
 
 
-0.3 (2018-09-03)
+0.3 (2018-10-03)
 ----------------
 
 - copyright, licenties, ...
 - clean up unused images
 
-0.1 (2013-09-01)
+0.1 (2013-10-01)
 ----------------
 
 - eerste aanzet
-
-DONE
-====
-
-BUSY
-====
-
 
 TODO
 ====
