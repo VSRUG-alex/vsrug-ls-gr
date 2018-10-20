@@ -7,6 +7,7 @@ current
 -------
 
 - review azimuths using Google maps bearings and gazetteer points
+- review altitudes (Dioptra app pics)
 
 0.5 (2018-10-10)
 ----------------
