@@ -3,8 +3,8 @@ Releases
 
 .. contents::
 
-current
--------
+0.5.1 (2018-10-20)
+------------------
 
 - review azimuths using Google maps bearings and gazetteer points
 - review altitudes (Dioptra app pics)
