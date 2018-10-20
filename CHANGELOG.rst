@@ -34,6 +34,7 @@ Releases
 TODO
 ====
 
+- review azimuths using Google maps bearings and gazetteer points
 - refine parameters
 - https://stellarium.org/landscapes.html
     - thumbnail
