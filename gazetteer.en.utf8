@@ -5,12 +5,14 @@
 # label is centered on line endpoint. 
 # Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
 
-124.0  | 24.0 | 0 | 0 | Boekentoren
-1.5 | 5 | 2 | 5 | Sint-Baafskathedraal
-353 | 4.5 | 2 | 0 | Belfort
-345 | 2.6 | 2 | -5 | Sint-Niklaas
-205 | 15 | 0 | 0 | Meteokot (wie niet leest zal het niet weten!)
+132.0  | 0.0 | 0 | 0 | Boekentoren
+
+# hoeken volgens https://acscdg.com/
+010 | 5 | 10 | 0 | Sint-Baafskathedraal
+002 | 4.5 | 5 | 0 | Belfort
+354 | 2.6 | 5 | 0 | Sint-Niklaas
+205 | 15 | 0 | 0 | Meteolokaal
 
 # distant stuff
-270 | 0 | 0 | 0 | Watersportbaan
+#270 | 0 | 0 | 0 | Watersportbaan
 #010 | 0 | 0 | 0 | Haven van Gent

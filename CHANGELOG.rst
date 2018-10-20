@@ -3,6 +3,11 @@ Releases
 
 .. contents::
 
+current
+-------
+
+- review azimuths using Google maps bearings and gazetteer points
+
 0.5 (2018-10-10)
 ----------------
 
@@ -34,7 +39,6 @@ Releases
 TODO
 ====
 
-- review azimuths using Google maps bearings and gazetteer points
 - refine parameters
 - https://stellarium.org/landscapes.html
     - thumbnail
