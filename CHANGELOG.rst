@@ -6,8 +6,13 @@ Releases
 0.5.3 (2018-11-20)
 ------------------
 
-- station
-- KBC toren
+- extra punten
+        - station
+        - st michiels
+        - KBC toren
+        - groene vallei
+        - 
+- labels verschoven
 
 0.5.2 (2018-11-19)
 ------------------
@@ -51,6 +56,13 @@ Releases
 TODO
 ====
 
+- vertalingen?
+- enkele hemelobjecten selecteren om de horizontale en vertikale hoekprecisie/nauwkeurigheid te bevestigen.
+- surrounding cities
+
+wishlist
+========
+
 - refine parameters
 - https://stellarium.org/landscapes.html
     - thumbnail
@@ -61,3 +73,4 @@ TODO
 - alle opties uitpluizen
 - opties toepassen
 - alternatieve landscape ``types`` (zie de .ini bestanden onder https://github.com/Stellarium/stellarium/tree/master/landscapes)
+
