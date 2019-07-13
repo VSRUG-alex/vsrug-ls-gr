@@ -3,12 +3,23 @@ Releases
 
 .. contents::
 
+1.0 (2019-07-13)
+----------------
+
+- herschikken labels
+- extra punten
+        - Volvo
+        - St Michiels
+        - kerk Ekkergem
+        - toren SP abdij
+        - buildings Groene Vallie
+- screenshot
+
 0.5.3 (2018-11-20)
 ------------------
 
 - extra punten
         - station
-        - st michiels
         - KBC toren
         - groene vallei
         - 
