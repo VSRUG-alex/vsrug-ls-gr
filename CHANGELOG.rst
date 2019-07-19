@@ -3,6 +3,12 @@ Releases
 
 .. contents::
 
+current
+-------
+
+- 10 graden naar rechts
+- werkwijze calibratie
+
 1.0 (2019-07-13)
 ----------------
 
@@ -67,9 +73,9 @@ Releases
 TODO
 ====
 
+- foto van observator plaats
 - vertalingen?
 - enkele hemelobjecten selecteren om de horizontale en vertikale hoekprecisie/nauwkeurigheid te bevestigen.
-- surrounding cities
 
 wishlist
 ========
@@ -84,4 +90,3 @@ wishlist
 - alle opties uitpluizen
 - opties toepassen
 - alternatieve landscape ``types`` (zie de .ini bestanden onder https://github.com/Stellarium/stellarium/tree/master/landscapes)
-
