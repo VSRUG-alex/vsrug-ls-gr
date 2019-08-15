@@ -8,6 +8,7 @@ current
 
 - 10 graden naar rechts
 - werkwijze calibratie
+- Hale-Bopp image
 
 1.0 (2019-07-13)
 ----------------

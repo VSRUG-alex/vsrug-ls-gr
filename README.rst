@@ -5,6 +5,7 @@ VSRUG landscape
 VSRUG landscape file for use in `Stellarium <https://stellarium.org/>`_.
 
 .. image:: img/stellarium-013.png
+.. image:: img/hbop.png
 
 How to calibrate
 ----------------
