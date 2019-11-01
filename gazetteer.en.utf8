@@ -5,35 +5,39 @@
 # label is centered on line endpoint. 
 # Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
 
-132  | 15 | 0 | 0 | Boekentoren
+132  | +15 | 0 | 0 | Boekentoren
 
 # hoeken volgens https://acscdg.com/
-010 | 0 | -05 | 0 | Sint Baafs
-002 | 0 | -05 | 0 | Belfort
-354 | 0 | -05 | 0 | St Niklaas
-205 | 15 | 0 | 0 | Meteolokaal
+010 | +00 | -05 | 0 | Sint Baafs
+002 | +00 | -05 | 0 | Belfort
+354 | +00 | -05 | 0 | St Niklaas
+205 | +15 | +00 | 0 | Meteolokaal
 
-195 | 5 | 05 | 0 | watertoren Kattenberg
-183 | 5 | 0 | 0 | Campus Ledeganck
-044 | -5 | -5 | 0 | St Amandsberg (stadhuis)
-126 | 0 | -10 | 0 | Ledeberg (kerk)
-092 | -5 | -10 | 0 | Gentbrugge (kerk)
+195 | +05 | +05 | 0 | watertoren Kattenberg
+183 | +05 | +00 | 0 | Campus Ledeganck
+044 | -05 | -05 | 0 | St Amandsberg (stadhuis)
+126 | +00 | -10 | 0 | Ledeberg (kerk)
+092 | -05 | -10 | 0 | Gentbrugge (kerk)
 
-222 | 5 | 5 | 0 | Sint-Pietersstation
-225 | 5 | 10 | 0 | KBC toren
+222 | +05 | +05 | 0 | Sint-Pietersstation
+225 | +05 | +10 | 0 | KBC toren
 
 
 # distant stuff
-#270 | 0 | 0 | 0 | Watersportbaan
-#010 | 0 | 0 | 0 | Haven van Gent
-040 | 0 | 0 | 0 | Volvo
+#270 | +00 | +00 | 0 | Watersportbaan
+#010 | +00 | +00 | 0 | Haven van Gent
+040 | +00 | +00 | 0 | Volvo
 
-338 | 00 | -05 | 0 |  St Michiels
-290 | -5 | -5 | 0 | kerk Ekkergem
-146 | 0 | -10 | 0 | toren SP abdij
-#152 | 0 | -10 | 0 | toren SP abdij
-303 | -1 | 0 | 0 | apptn Groene Vallei
+338 | +00 | -05 | 0 |  St Michiels
+290 | -05 | -05 | 0 | kerk Ekkergem
+146 | +00 | -10 | 0 | toren SP abdij
+#152 | +00 | -10 | 0 | toren SP abdij
+303 | -01 | +00 | 0 | apptn Groene Vallei
 
 # TODO
-#360 | 0 | 0 | 0 | eurosilo
+#360 | +00 | +00 | 0 | eurosilo
+
+# grote koepel
+120 | +00 | +30 | 0 | KK L
+054 | +00 | +30 | 0 | KK R
 
