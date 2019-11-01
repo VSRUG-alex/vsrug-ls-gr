@@ -3,12 +3,14 @@ Releases
 
 .. contents::
 
-current
--------
+1.1 (2019-11-01)
+----------------
 
 - 10 graden naar rechts
 - werkwijze calibratie
 - Hale-Bopp image
+- limieten KK
+- cooridnaten grasveld
 
 1.0 (2019-07-13)
 ----------------
