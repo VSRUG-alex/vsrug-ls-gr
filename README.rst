@@ -2,7 +2,7 @@
 VSRUG landscape
 ===============
 
-VSRUG landscape file for use in `Stellarium <https://stellarium.org/>`_.
+VSRUG landscape file for use in `Stellarium <https://stellarium.org/>`_. You can find the zip files on the `releases <https://github.com/axd1967/vsrug-ls-gr/releases>`_ page.
 
 .. image:: img/stellarium-013.png
 .. image:: img/hbop.png
